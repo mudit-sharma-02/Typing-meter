@@ -1,0 +1,3 @@
+include typing_meter/data.db
+include versioneer.py
+include typing_meter/_version.py
